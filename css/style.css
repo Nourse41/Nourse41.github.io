@@ -47,6 +47,10 @@ a:hover {
   background-color: var(--plum);
 }
 
+.section-aqua {
+  background-color: var(--dkblue);
+}
+
 .gradient {
   background: rgb(255,23,228);
   background: linear-gradient(90deg, rgba(255,23,228,1) 0%, rgba(134,251,251,1) 100%);
@@ -104,6 +108,10 @@ a:hover {
 #contact [class*="fa-"]:hover {
   color: var(--white);
   font-family: var(--mono);
+}
+
+#contact p {
+  font-size: 75%;
 }
 
 /* navbar styles */
