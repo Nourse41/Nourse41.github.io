@@ -27,6 +27,7 @@ body {
   background-color: var(--black);
   color: var(--white);
   font-size: var(--font-size);
+  width: 100%;
 }
 
 h1, h2, h3 {
@@ -43,7 +44,7 @@ a:hover {
 }
 
 img {
-  width: 100%
+  width: 100%;
 }
 
 /* background color divs */
